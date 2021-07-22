@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb06fa17.chunk.css",
-    "main.js": "/static/js/main.6213f578.chunk.js",
-    "main.js.map": "/static/js/main.6213f578.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9a649ed.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9a649ed.js.map",
+    "main.css": "/static/css/main.09e53761.chunk.css",
+    "main.js": "/static/js/main.5381ab9a.chunk.js",
+    "main.js.map": "/static/js/main.5381ab9a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2c48adfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2c48adfe.js.map",
     "static/css/2.4bd8e119.chunk.css": "/static/css/2.4bd8e119.chunk.css",
-    "static/js/2.78089bc5.chunk.js": "/static/js/2.78089bc5.chunk.js",
-    "static/js/2.78089bc5.chunk.js.map": "/static/js/2.78089bc5.chunk.js.map",
-    "static/js/3.563e6b8d.chunk.js": "/static/js/3.563e6b8d.chunk.js",
-    "static/js/3.563e6b8d.chunk.js.map": "/static/js/3.563e6b8d.chunk.js.map",
+    "static/js/2.3d730cc8.chunk.js": "/static/js/2.3d730cc8.chunk.js",
+    "static/js/2.3d730cc8.chunk.js.map": "/static/js/2.3d730cc8.chunk.js.map",
+    "static/js/3.cffb881a.chunk.js": "/static/js/3.cffb881a.chunk.js",
+    "static/js/3.cffb881a.chunk.js.map": "/static/js/3.cffb881a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4bd8e119.chunk.css.map": "/static/css/2.4bd8e119.chunk.css.map",
-    "static/css/main.bb06fa17.chunk.css.map": "/static/css/main.bb06fa17.chunk.css.map",
-    "static/js/2.78089bc5.chunk.js.LICENSE.txt": "/static/js/2.78089bc5.chunk.js.LICENSE.txt",
+    "static/css/main.09e53761.chunk.css.map": "/static/css/main.09e53761.chunk.css.map",
+    "static/js/2.3d730cc8.chunk.js.LICENSE.txt": "/static/js/2.3d730cc8.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/static/media/bg-top.e759eb34.svg",
     "static/media/arrow1.659df7d4.svg": "/static/media/arrow1.659df7d4.svg",
     "static/media/arrow_left.f79c6a0e.svg": "/static/media/arrow_left.f79c6a0e.svg",
@@ -69,10 +69,10 @@
     "static/media/woman_icon.58ecd46f.svg": "/static/media/woman_icon.58ecd46f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9a649ed.js",
+    "static/js/runtime-main.2c48adfe.js",
     "static/css/2.4bd8e119.chunk.css",
-    "static/js/2.78089bc5.chunk.js",
-    "static/css/main.bb06fa17.chunk.css",
-    "static/js/main.6213f578.chunk.js"
+    "static/js/2.3d730cc8.chunk.js",
+    "static/css/main.09e53761.chunk.css",
+    "static/js/main.5381ab9a.chunk.js"
   ]
 }
